@@ -16,3 +16,4 @@ const CONFIG = {
     messDesc: 'Khi nào hết dịch tụi mình sẽ đi du lịch cùng nhau nha.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/profile.php?id=100065309171127'
+    }
